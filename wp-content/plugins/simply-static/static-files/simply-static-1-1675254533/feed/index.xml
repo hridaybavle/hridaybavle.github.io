@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Hriday Bavle</title>
+	<atom:link href="https://hridaybavle.github.io/feed" rel="self" type="application/rss+xml" />
+	<link>https://hridaybavle.github.io</link>
+	<description>Doctor in Automatic Control and Robotics</description>
+	<lastBuildDate>Sun, 19 Jul 2020 17:55:50 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>https://hridaybavle.github.io/wp-content/uploads/2019/12/cropped-classic-slide-1-1250x781-white01-1-32x32.jpg</url>
+	<title>Hriday Bavle</title>
+	<link>https://hridaybavle.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>How To Easily Test your C++ code Snippet</title>
+		<link>https://hridaybavle.github.io/2020/07/how-to-easily-test-you-c-code-snippet?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=how-to-easily-test-you-c-code-snippet</link>
+					<comments>https://hridaybavle.github.io/2020/07/how-to-easily-test-you-c-code-snippet#respond</comments>
+		
+		<dc:creator><![CDATA[Hriday Bavle]]></dc:creator>
+		<pubDate>Sat, 18 Jul 2020 15:53:41 +0000</pubDate>
+				<category><![CDATA[Coding]]></category>
+		<guid isPermaLink="false">https://hridaybavle.github.io/?p=3599</guid>
+
+					<description><![CDATA[<p>Many times while coding we always want to test how a small snippet of our code would actually perform or we would just want to check or confirm a logic [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://hridaybavle.github.io/2020/07/how-to-easily-test-you-c-code-snippet">How To Easily Test your C++ code Snippet</a> appeared first on <a rel="nofollow" href="https://hridaybavle.github.io">Hriday Bavle</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<h6></h6>
+<h6>Many times while coding we always want to test how a small snippet of our code would actually perform or we would just want to check or confirm a logic of our program. In this blog I will show you how you can write a C++ code snippet in to check your code logic in just two minutes without writing a CmakeLists.txt.</h6>
+<p><span id="more-3599"></span></p>
+<h6>You will first need to download vscode as the instructions are using this editor. You can download it from this <a href="https://code.visualstudio.com/download">link</a>  Then lets create a test folder in /tmp directory and add a test.cpp in it. Open a Terminal and type:</h6>
+<pre>mkdir -p /tmp/test_code &amp;&amp; cd /tmp/test_code
+touch test.cpp
+code .</pre>
+<h6>Now you can write you own code snippet or copy it from the example I provide below. In this code I want to test return of a pointer through a function.</h6>
+<div>
+<div>
+<pre>#include &lt;stdio.h&gt;
+#include &lt;math.h&gt;
+#include &lt;iostream&gt;
+
+int *set_foo_pointer(int a, int b)
+{
+    int *c = new int;
+    *c = pow(a, 2) + pow(b, 2);
+    std::cout &lt;&lt; "Value of c: " &lt;&lt; *c &lt;&lt; std::endl;
+    return c;
+}
+
+int main()
+{
+    int *a = new int;
+    a = set_foo_pointer(3, 5);
+    std::cout &lt;&lt; "Value of a: " &lt;&lt; *a &lt;&lt; std::endl;
+    return 0;
+}</pre>
+</div>
+</div>
+<h6>After writing the code you can execute the following two steps on the same terminal you opened the vscode.</h6>
+<pre>g++ test.cpp 
+./a.out
+</pre>
+<h6>The first line compiles the code using g++ and the second line executes the compiled output. Which after running should print the following output:</h6>
+<pre>Value of c: 34
+Value of a: 34</pre>
+<p>The post <a rel="nofollow" href="https://hridaybavle.github.io/2020/07/how-to-easily-test-you-c-code-snippet">How To Easily Test your C++ code Snippet</a> appeared first on <a rel="nofollow" href="https://hridaybavle.github.io">Hriday Bavle</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://hridaybavle.github.io/2020/07/how-to-easily-test-you-c-code-snippet/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

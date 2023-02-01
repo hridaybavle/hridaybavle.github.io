@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait 'Yoast\WP\SEO\Builders\Indexable_Social_Image_Trait' not found in <b>/opt/lampp/htdocs/hridaybavle.github.io/wp-content/plugins/wordpress-seo/src/builders/indexable-home-page-builder.php</b> on line <b>19</b><br>

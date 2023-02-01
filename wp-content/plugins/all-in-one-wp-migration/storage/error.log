@@ -1,0 +1,654 @@
+Feb 01 2023 11:06:59
+{"type":8192,"message":"Directive 'track_errors' is deprecated","file":"Unknown","line":0}
+
+Feb 01 2023 11:07:04
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/index.php): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:05
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/index.php): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:05
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/akismet\/readme.txt): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:05
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/akismet\/_inc\/img\/logo-a-2x.png): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:05
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/akismet\/_inc\/img\/logo-full-2x.png): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:05
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/akismet\/_inc\/akismet.css): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:05
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/akismet\/_inc\/akismet.js): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:05
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/akismet\/class.akismet-admin.php): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:05
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/akismet\/changelog.txt): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:05
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/akismet\/LICENSE.txt): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:05
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/akismet\/wrapper.php): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:05
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/akismet\/index.php): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:05
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/akismet\/class.akismet.php): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:05
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/akismet\/.htaccess): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:05
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/akismet\/class.akismet-widget.php): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:05
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/akismet\/akismet.php): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:05
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/akismet\/views\/enter.php): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:05
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/akismet\/views\/config.php): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:05
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/akismet\/views\/start.php): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:05
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/akismet\/views\/predefined.php): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:05
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/akismet\/views\/stats.php): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:05
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/akismet\/views\/get.php): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:05
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/akismet\/views\/notice.php): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:05
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/akismet\/views\/connect-jp.php): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:05
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/akismet\/views\/title.php): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:05
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/akismet\/views\/activate.php): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:05
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/akismet\/views\/setup.php): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:05
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/akismet\/class.akismet-cli.php): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:05
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/akismet\/class.akismet-rest-api.php): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/template-parts\/excerpt\/excerpt-quote.php): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/template-parts\/excerpt\/excerpt-status.php): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/template-parts\/excerpt\/excerpt-gallery.php): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/template-parts\/excerpt\/excerpt-audio.php): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/template-parts\/excerpt\/excerpt-aside.php): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/template-parts\/excerpt\/excerpt-video.php): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/template-parts\/excerpt\/excerpt-image.php): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/template-parts\/excerpt\/excerpt.php): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/template-parts\/excerpt\/excerpt-link.php): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/template-parts\/excerpt\/excerpt-chat.php): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/template-parts\/footer\/footer-widgets.php): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/template-parts\/content\/content-none.php): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/template-parts\/content\/content-page.php): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/template-parts\/content\/content-single.php): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/template-parts\/content\/content-excerpt.php): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/template-parts\/content\/content.php): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/template-parts\/header\/excerpt-header.php): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/template-parts\/header\/site-header.php): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/template-parts\/header\/site-nav.php): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/template-parts\/header\/entry-header.php): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/template-parts\/header\/site-branding.php): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/template-parts\/post\/author-bio.php): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/header.php): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/package.json): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/screenshot.png): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/search.php): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/single.php): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/searchform.php): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/readme.txt): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/style-rtl.css): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/archive.php): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/comments.php): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/index.php): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/footer.php): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/functions.php): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/package-lock.json): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/inc\/starter-content.php): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/inc\/block-patterns.php): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/inc\/template-tags.php): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/inc\/block-styles.php): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/inc\/custom-css.php): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/inc\/back-compat.php): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/inc\/menu-functions.php): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/inc\/template-functions.php): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/image.php): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/postcss.config.js): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/style.css): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/classes\/class-twenty-twenty-one-svg-icons.php): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/classes\/class-twenty-twenty-one-customize.php): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/classes\/class-twenty-twenty-one-custom-colors.php): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/classes\/class-twenty-twenty-one-dark-mode.php): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/classes\/class-twenty-twenty-one-customize-notice-control.php): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/classes\/class-twenty-twenty-one-customize-color-control.php): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/page.php): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/404.php): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/images\/playing-in-the-sand.jpg): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/images\/the-garden-at-bougival-1884.jpg): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/images\/self-portrait-1885.jpg): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/images\/Daffodils.jpg): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/images\/young-woman-in-mauve.jpg): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/images\/Reading.jpg): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/images\/villa-with-orange-trees-nice.jpg): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/images\/in-the-bois-de-boulogne.jpg): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/images\/roses-tremieres-hollyhocks-1884.jpg): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/js\/editor-dark-mode-support.js): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/js\/editor.js): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/js\/primary-navigation.js): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/js\/customize-preview.js): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/js\/palette-colorpicker.js): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/js\/customize.js): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/js\/polyfills.js): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/js\/skip-link-focus-fix.js): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/js\/customize-helpers.js): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/js\/dark-mode-toggler.js): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/js\/responsive-embeds.js): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/03-generic\/vertical-margins.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/03-generic\/normalize.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/03-generic\/reset.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/03-generic\/clearings.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/03-generic\/breakpoints.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/style-dark-mode.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/06-components\/widgets.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/06-components\/entry.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/06-components\/archives.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/06-components\/single.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/06-components\/footer-navigation.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/06-components\/pagination.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/06-components\/footer.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/06-components\/header.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/06-components\/comments.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/06-components\/search.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/06-components\/editor.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/06-components\/navigation.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/06-components\/404.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/06-components\/posts-and-pages.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/04-elements\/media.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/04-elements\/forms-editor.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/04-elements\/misc.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/04-elements\/forms.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/04-elements\/links.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/04-elements\/blockquote.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/07-utilities\/ie.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/07-utilities\/a11y.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/07-utilities\/print.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/07-utilities\/color-palette.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/07-utilities\/measure.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/02-tools\/functions.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/02-tools\/mixins.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/style.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/01-settings\/global.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/01-settings\/file-header.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/01-settings\/fonts.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/style-editor.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/05-blocks\/code\/_style.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/05-blocks\/code\/_editor.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/05-blocks\/paragraph\/_style.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/05-blocks\/paragraph\/_editor.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/05-blocks\/html\/_editor.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/05-blocks\/media-text\/_style.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/05-blocks\/media-text\/_editor.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/05-blocks\/button\/_style.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/05-blocks\/button\/_editor.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/05-blocks\/image\/_style.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/05-blocks\/image\/_editor.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/05-blocks\/columns\/_style.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/05-blocks\/columns\/_editor.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/05-blocks\/verse\/_style.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/05-blocks\/verse\/_editor.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/05-blocks\/group\/_style.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/05-blocks\/group\/_editor.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/05-blocks\/list\/_style.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/05-blocks\/list\/_editor.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/05-blocks\/query-loop\/_style.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/05-blocks\/query-loop\/_editor.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/05-blocks\/cover\/_style.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/05-blocks\/cover\/_editor.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/05-blocks\/gallery\/_style.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/05-blocks\/gallery\/_editor.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/05-blocks\/latest-comments\/_style.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/05-blocks\/latest-comments\/_editor.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/05-blocks\/heading\/_style.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/05-blocks\/heading\/_editor.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/05-blocks\/utilities\/_style.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/05-blocks\/utilities\/_editor.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/05-blocks\/utilities\/_font-sizes.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/05-blocks\/social-icons\/_style.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/05-blocks\/social-icons\/_editor.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/05-blocks\/table\/_style.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/05-blocks\/table\/_editor.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/05-blocks\/video\/_style.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/05-blocks\/audio\/_style.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/05-blocks\/navigation\/_style.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/05-blocks\/navigation\/_editor.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/05-blocks\/latest-posts\/_style.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/05-blocks\/latest-posts\/_editor.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/05-blocks\/quote\/_style.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/05-blocks\/quote\/_editor.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/05-blocks\/file\/_style.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/05-blocks\/file\/_editor.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/05-blocks\/blocks-editor.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/05-blocks\/separator\/_style.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/05-blocks\/separator\/_editor.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/05-blocks\/_config.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/05-blocks\/tag-clould\/_style.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/05-blocks\/tag-clould\/_editor.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/05-blocks\/rss\/_style.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/05-blocks\/rss\/_editor.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/05-blocks\/search\/_style.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/05-blocks\/search\/_editor.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/05-blocks\/legacy\/_style.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/05-blocks\/legacy\/_editor.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"mkdir(): Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":239}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/05-blocks\/spacer\/_style.scss): failed to open stream: No such file or directory","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/05-blocks\/preformatted\/_style.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/05-blocks\/preformatted\/_editor.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/05-blocks\/pullquote\/_style.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/05-blocks\/pullquote\/_editor.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/sass\/05-blocks\/blocks.scss): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/css\/style-dark-mode-rtl.css): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/css\/style-editor-customizer.css): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/css\/ie-editor.css): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/css\/style-dark-mode.css): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/css\/custom-color-overrides.css): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/css\/style-editor.css): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/css\/print.css): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/twentytwentyone\/assets\/css\/ie.css): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:06
+{"Number":2,"Message":"fopen(\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/index.php): failed to open stream: Permission denied","File":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":422}
+
+Feb 01 2023 11:07:25
+{"type":2,"message":"Creating default object from empty value","file":"\/opt\/lampp\/htdocs\/hridaybavle.github.io\/wp-content\/themes\/oshine\/oshin\/ReduxFramework\/ReduxCore\/inc\/class.redux_filesystem.php","line":29}
+
